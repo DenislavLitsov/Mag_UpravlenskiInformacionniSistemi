@@ -15,8 +15,6 @@ namespace UpravlenskiInformacionniSistemi.Web.ViewModels.Store
         {
         }
 
-        public DateTime ProductionDate { get; set; }
-
         public DateTime ExpiryDate { get; set; }
 
         public Guid ItemTypeId { get; set; }

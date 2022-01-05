@@ -16,6 +16,7 @@ namespace UpravlenskiInformacionniSistemi.Web.ViewModels.Store
         {
         }
 
+        [Required]
         public DateTime SellDate { get; set; }
 
         public int ClientId { get; set; }

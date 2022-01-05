@@ -10,19 +10,25 @@ namespace UpravlenskiInformacionniSistemi.Web.ViewModels.Store
     using UpravlenskiInformacionniSistemi.Services.Mapping;
     using UpravlenskiInformacionniSistemi.Web.ViewModels.Common.Abstractions;
 
-    public class ItemTypeViewModel : BaseDeletableViewModel<int>, IMapFrom<ItemType>, IHaveCustomMappings
+    public class ItemTypeViewModel : BaseDeletableViewModel<Guid>, IMapFrom<ItemType>, IHaveCustomMappings
     {
         public ItemTypeViewModel()
         {
         }
 
+        [Required]
+        [MinLength(3)]
+        [MaxLength(75)]
         public string Name { get; set; }
 
+        [Required]
+        [MinLength(5)]
+        [MaxLength(500)]
         public string Description { get; set; }
 
+        [Required]
+        [Range(0, double.MaxValue)]
         public double Price { get; set; }
-
-        public int Quantity { get; set; }
 
         public ICollection<ItemViewModel> Items { get; set; }
 

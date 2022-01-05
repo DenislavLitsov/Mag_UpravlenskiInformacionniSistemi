@@ -1,4 +1,4 @@
-namespace UpravlenskiInformacionniSistemi.Services.Data.Managers
+namespace UpravlenskiInformacionniSistemi.Services.Data
 {
     using System;
     using System.Collections.Generic;
@@ -80,7 +80,6 @@ namespace UpravlenskiInformacionniSistemi.Services.Data.Managers
             destination.Name = source.Name;
             destination.Description = source.Description;
             destination.Price = source.Price;
-            destination.Quantity = source.Quantity;
         }
     }
 }

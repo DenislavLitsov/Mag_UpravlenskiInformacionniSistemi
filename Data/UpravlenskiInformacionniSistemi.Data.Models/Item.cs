@@ -11,9 +11,6 @@
         }
 
         [Required]
-        public DateTime ProductionDate { get; set; }
-
-        [Required]
         public DateTime ExpiryDate { get; set; }
 
         [Required]
@@ -25,5 +22,10 @@
         public int ItemSellId { get; set; }
 
         public ItemSell ItemSell { get; set; }
+
+        [Required]
+        public int ProductionId { get; set; }
+
+        public Production Production { get; set; }
     }
 }

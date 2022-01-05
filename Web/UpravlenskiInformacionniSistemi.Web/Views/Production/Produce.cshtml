@@ -1,0 +1,48 @@
+﻿@model UpravlenskiInformacionniSistemi.Web.ViewModels.Complex.ProductionComplexViewModel
+
+@{
+    ViewData["Title"] = "Produce";
+}
+
+<h1>Produce</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Produce">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="YearsToExpiration" class="control-label"></label>
+                <input asp-for="YearsToExpiration" class="form-control" />
+                <span asp-validation-for="YearsToExpiration" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MonthsToExpiration" class="control-label"></label>
+                <input asp-for="MonthsToExpiration" class="form-control" />
+                <span asp-validation-for="MonthsToExpiration" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <select asp-for="ItemTypeId">
+                    @foreach (var type in Model.ItemTypesIds)
+                    {
+                        <option value="@type.Id">@type.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+}

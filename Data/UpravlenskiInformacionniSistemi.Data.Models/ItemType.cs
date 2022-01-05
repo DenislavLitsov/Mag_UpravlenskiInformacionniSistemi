@@ -15,20 +15,18 @@
         }
 
         [Required]
-        [Range(0, 120)]
+        [MinLength(3)]
+        [MaxLength(75)]
         public string Name { get; set; }
 
         [Required]
-        [Range(0, 500)]
+        [MinLength(5)]
+        [MaxLength(500)]
         public string Description { get; set; }
 
         [Required]
         [Range(0, double.MaxValue)]
         public double Price { get; set; }
-
-        [Required]
-        [Range(0, int.MaxValue)]
-        public int Quantity { get; set; }
 
         public ICollection<Item> Items { get; set; }
     }

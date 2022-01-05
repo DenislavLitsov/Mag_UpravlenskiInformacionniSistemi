@@ -22,5 +22,10 @@
   <ItemGroup>
     <ProjectReference Include="..\UpravlenskiInformacionniSistemi.Data.Common\UpravlenskiInformacionniSistemi.Data.Common.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="CRUDS\" />
+    <Folder Include="VIEW_MODELS\" />
+  </ItemGroup>
   
 </Project>

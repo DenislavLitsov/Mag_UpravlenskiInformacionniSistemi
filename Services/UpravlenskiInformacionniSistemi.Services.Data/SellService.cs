@@ -1,4 +1,4 @@
-namespace UpravlenskiInformacionniSistemi.Services.Data.Managers
+namespace UpravlenskiInformacionniSistemi.Services.Data
 {
     using System;
     using System.Collections.Generic;

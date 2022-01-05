@@ -15,17 +15,20 @@
         }
 
         [Required]
-        [Range(0, 100)]
+        [MinLength(3)]
+        [MaxLength(75)]
         [DataType(DataType.Text)]
         public string Name { get; set; }
 
         [Required]
-        [Range(0, 500)]
+        [MinLength(20)]
+        [MaxLength(500)]
         [DataType(DataType.Text)]
         public string DeliveryAddress { get; set; }
 
         [Required]
-        [Range(10, 20)]
+        [MinLength(10)]
+        [MaxLength(20)]
         [DataType(DataType.PhoneNumber)]
         public string Telephone { get; set; }
 

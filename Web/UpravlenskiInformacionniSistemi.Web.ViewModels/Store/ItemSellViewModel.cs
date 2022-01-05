@@ -14,6 +14,8 @@ namespace UpravlenskiInformacionniSistemi.Web.ViewModels.Store
         {
         }
 
+        [Required]
+        [Range(0, double.MaxValue)]
         public double SellPrice { get; set; }
 
         public int SellId { get; set; }

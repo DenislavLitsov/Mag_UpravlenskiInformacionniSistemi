@@ -1,0 +1,7 @@
+1. Item types Crud - done
+2. Produce Items - done
+3. Sell items
+4. Clients Crud
+5. Sells Crud
+
+6. na stranicata item types da se pokazvat vsichki itemi i tqhnoto quantity

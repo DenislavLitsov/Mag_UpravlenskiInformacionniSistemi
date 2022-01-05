@@ -15,10 +15,22 @@ namespace UpravlenskiInformacionniSistemi.Web.ViewModels.Store
         {
         }
 
+        [Required]
+        [MinLength(3)]
+        [MaxLength(75)]
+        [DataType(DataType.Text)]
         public string Name { get; set; }
 
+        [Required]
+        [MinLength(20)]
+        [MaxLength(500)]
+        [DataType(DataType.Text)]
         public string DeliveryAddress { get; set; }
 
+        [Required]
+        [MinLength(10)]
+        [MaxLength(20)]
+        [DataType(DataType.PhoneNumber)]
         public string Telephone { get; set; }
 
         public ICollection<SellViewModel> Sells { get; set; }

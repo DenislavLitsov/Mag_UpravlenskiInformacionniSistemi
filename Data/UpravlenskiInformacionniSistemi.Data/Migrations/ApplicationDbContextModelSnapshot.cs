@@ -16,7 +16,7 @@ namespace UpravlenskiInformacionniSistemi.Data.Migrations
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
-                .HasAnnotation("ProductVersion", "5.0.6")
+                .HasAnnotation("ProductVersion", "5.0.12")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -258,7 +258,8 @@ namespace UpravlenskiInformacionniSistemi.Data.Migrations
 
                     b.Property<string>("DeliveryAddress")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
 
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
@@ -268,11 +269,13 @@ namespace UpravlenskiInformacionniSistemi.Data.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(75)
+                        .HasColumnType("nvarchar(75)");
 
                     b.Property<string>("Telephone")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
 
                     b.HasKey("Id");
 
@@ -309,14 +312,16 @@ namespace UpravlenskiInformacionniSistemi.Data.Migrations
                     b.Property<DateTime?>("ModifiedOn")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("ProductionDate")
-                        .HasColumnType("datetime2");
+                    b.Property<int>("ProductionId")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
                     b.HasIndex("IsDeleted");
 
                     b.HasIndex("ItemTypeId");
+
+                    b.HasIndex("ProductionId");
 
                     b.ToTable("Items");
                 });
@@ -375,7 +380,8 @@ namespace UpravlenskiInformacionniSistemi.Data.Migrations
 
                     b.Property<string>("Description")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
 
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
@@ -385,19 +391,46 @@ namespace UpravlenskiInformacionniSistemi.Data.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(75)
+                        .HasColumnType("nvarchar(75)");
 
                     b.Property<double>("Price")
                         .HasColumnType("float");
-
-                    b.Property<int>("Quantity")
-                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
                     b.HasIndex("IsDeleted");
 
                     b.ToTable("ItemType");
+                });
+
+            modelBuilder.Entity("UpravlenskiInformacionniSistemi.Data.Models.Production", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<DateTime>("CreatedOn")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime?>("DeletedOn")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime?>("ModifiedOn")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("ProductionDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("IsDeleted");
+
+                    b.ToTable("Production");
                 });
 
             modelBuilder.Entity("UpravlenskiInformacionniSistemi.Data.Models.Sell", b =>
@@ -525,7 +558,15 @@ namespace UpravlenskiInformacionniSistemi.Data.Migrations
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
+                    b.HasOne("UpravlenskiInformacionniSistemi.Data.Models.Production", "Production")
+                        .WithMany("ProducedItems")
+                        .HasForeignKey("ProductionId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
                     b.Navigation("ItemType");
+
+                    b.Navigation("Production");
                 });
 
             modelBuilder.Entity("UpravlenskiInformacionniSistemi.Data.Models.ItemSell", b =>
@@ -580,6 +621,11 @@ namespace UpravlenskiInformacionniSistemi.Data.Migrations
             modelBuilder.Entity("UpravlenskiInformacionniSistemi.Data.Models.ItemType", b =>
                 {
                     b.Navigation("Items");
+                });
+
+            modelBuilder.Entity("UpravlenskiInformacionniSistemi.Data.Models.Production", b =>
+                {
+                    b.Navigation("ProducedItems");
                 });
 
             modelBuilder.Entity("UpravlenskiInformacionniSistemi.Data.Models.Sell", b =>

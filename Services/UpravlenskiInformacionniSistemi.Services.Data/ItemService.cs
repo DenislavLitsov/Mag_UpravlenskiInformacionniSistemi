@@ -1,4 +1,4 @@
-namespace UpravlenskiInformacionniSistemi.Services.Data.Managers
+namespace UpravlenskiInformacionniSistemi.Services.Data
 {
     using System;
     using System.Collections.Generic;
@@ -78,7 +78,6 @@ namespace UpravlenskiInformacionniSistemi.Services.Data.Managers
 
         private void UpdateProps(Item destination, ItemViewModel source)
         {
-            destination.ProductionDate = source.ProductionDate;
             destination.ExpiryDate = source.ExpiryDate;
             destination.ItemTypeId = source.ItemTypeId;
             destination.ItemSellId = source.ItemSellId;
