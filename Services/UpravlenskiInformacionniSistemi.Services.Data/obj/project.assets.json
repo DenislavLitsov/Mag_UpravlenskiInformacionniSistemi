@@ -382,6 +382,20 @@
         "runtime": {
           "bin/placeholder/UpravlenskiInformacionniSistemi.Services.Mapping.dll": {}
         }
+      },
+      "UpravlenskiInformacionniSistemi.Web.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UpravlenskiInformacionniSistemi.Data.Models": "1.0.0",
+          "UpravlenskiInformacionniSistemi.Services.Mapping": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UpravlenskiInformacionniSistemi.Web.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UpravlenskiInformacionniSistemi.Web.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -1190,6 +1204,11 @@
       "type": "project",
       "path": "../UpravlenskiInformacionniSistemi.Services.Mapping/UpravlenskiInformacionniSistemi.Services.Mapping.csproj",
       "msbuildProject": "../UpravlenskiInformacionniSistemi.Services.Mapping/UpravlenskiInformacionniSistemi.Services.Mapping.csproj"
+    },
+    "UpravlenskiInformacionniSistemi.Web.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../../Web/UpravlenskiInformacionniSistemi.Web.ViewModels/UpravlenskiInformacionniSistemi.Web.ViewModels.csproj",
+      "msbuildProject": "../../Web/UpravlenskiInformacionniSistemi.Web.ViewModels/UpravlenskiInformacionniSistemi.Web.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1197,7 +1216,8 @@
       "StyleCop.Analyzers >= 1.2.0-beta.312",
       "UpravlenskiInformacionniSistemi.Data.Common >= 1.0.0",
       "UpravlenskiInformacionniSistemi.Data.Models >= 1.0.0",
-      "UpravlenskiInformacionniSistemi.Services.Mapping >= 1.0.0"
+      "UpravlenskiInformacionniSistemi.Services.Mapping >= 1.0.0",
+      "UpravlenskiInformacionniSistemi.Web.ViewModels >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1240,6 +1260,9 @@
             },
             "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Services\\UpravlenskiInformacionniSistemi.Services.Mapping\\UpravlenskiInformacionniSistemi.Services.Mapping.csproj": {
               "projectPath": "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Services\\UpravlenskiInformacionniSistemi.Services.Mapping\\UpravlenskiInformacionniSistemi.Services.Mapping.csproj"
+            },
+            "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Web\\UpravlenskiInformacionniSistemi.Web.ViewModels\\UpravlenskiInformacionniSistemi.Web.ViewModels.csproj": {
+              "projectPath": "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Web\\UpravlenskiInformacionniSistemi.Web.ViewModels\\UpravlenskiInformacionniSistemi.Web.ViewModels.csproj"
             }
           }
         }

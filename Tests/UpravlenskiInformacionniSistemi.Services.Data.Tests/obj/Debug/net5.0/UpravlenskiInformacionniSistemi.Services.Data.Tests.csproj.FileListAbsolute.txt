@@ -172,3 +172,5 @@ E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Tests\
 E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Tests\UpravlenskiInformacionniSistemi.Services.Data.Tests\obj\Debug\net5.0\ref\UpravlenskiInformacionniSistemi.Services.Data.Tests.dll
 E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Tests\UpravlenskiInformacionniSistemi.Services.Data.Tests\obj\Debug\net5.0\UpravlenskiInformacionniSistemi.Services.Data.Tests.pdb
 E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Tests\UpravlenskiInformacionniSistemi.Services.Data.Tests\obj\Debug\net5.0\UpravlenskiInformacionniSistemi.Services.Data.Tests.genruntimeconfig.cache
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Tests\UpravlenskiInformacionniSistemi.Services.Data.Tests\bin\Debug\net5.0\UpravlenskiInformacionniSistemi.Web.ViewModels.dll
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Tests\UpravlenskiInformacionniSistemi.Services.Data.Tests\bin\Debug\net5.0\UpravlenskiInformacionniSistemi.Web.ViewModels.pdb

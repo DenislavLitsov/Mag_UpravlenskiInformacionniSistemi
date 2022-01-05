@@ -14,3 +14,5 @@ E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Servic
 E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Services\UpravlenskiInformacionniSistemi.Services.Data\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Services.Data.csproj.CopyComplete
 E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Services\UpravlenskiInformacionniSistemi.Services.Data\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Services.Data.dll
 E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Services\UpravlenskiInformacionniSistemi.Services.Data\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Services.Data.pdb
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Services\UpravlenskiInformacionniSistemi.Services.Data\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Web.ViewModels.dll
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Services\UpravlenskiInformacionniSistemi.Services.Data\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Web.ViewModels.pdb

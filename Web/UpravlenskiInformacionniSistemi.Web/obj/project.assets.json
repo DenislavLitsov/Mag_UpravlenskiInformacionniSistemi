@@ -2397,7 +2397,8 @@
         "dependencies": {
           "UpravlenskiInformacionniSistemi.Data.Common": "1.0.0",
           "UpravlenskiInformacionniSistemi.Data.Models": "1.0.0",
-          "UpravlenskiInformacionniSistemi.Services.Mapping": "1.0.0"
+          "UpravlenskiInformacionniSistemi.Services.Mapping": "1.0.0",
+          "UpravlenskiInformacionniSistemi.Web.ViewModels": "1.0.0"
         },
         "compile": {
           "bin/placeholder/UpravlenskiInformacionniSistemi.Services.Data.dll": {}

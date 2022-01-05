@@ -284,6 +284,9 @@
               },
               "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Services\\UpravlenskiInformacionniSistemi.Services.Mapping\\UpravlenskiInformacionniSistemi.Services.Mapping.csproj": {
                 "projectPath": "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Services\\UpravlenskiInformacionniSistemi.Services.Mapping\\UpravlenskiInformacionniSistemi.Services.Mapping.csproj"
+              },
+              "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Web\\UpravlenskiInformacionniSistemi.Web.ViewModels\\UpravlenskiInformacionniSistemi.Web.ViewModels.csproj": {
+                "projectPath": "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Web\\UpravlenskiInformacionniSistemi.Web.ViewModels\\UpravlenskiInformacionniSistemi.Web.ViewModels.csproj"
               }
             }
           }
@@ -517,6 +520,79 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Web\\UpravlenskiInformacionniSistemi.Web.ViewModels\\UpravlenskiInformacionniSistemi.Web.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Web\\UpravlenskiInformacionniSistemi.Web.ViewModels\\UpravlenskiInformacionniSistemi.Web.ViewModels.csproj",
+        "projectName": "UpravlenskiInformacionniSistemi.Web.ViewModels",
+        "projectPath": "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Web\\UpravlenskiInformacionniSistemi.Web.ViewModels\\UpravlenskiInformacionniSistemi.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
+        "outputPath": "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Web\\UpravlenskiInformacionniSistemi.Web.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Data\\UpravlenskiInformacionniSistemi.Data.Models\\UpravlenskiInformacionniSistemi.Data.Models.csproj": {
+                "projectPath": "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Data\\UpravlenskiInformacionniSistemi.Data.Models\\UpravlenskiInformacionniSistemi.Data.Models.csproj"
+              },
+              "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Services\\UpravlenskiInformacionniSistemi.Services.Mapping\\UpravlenskiInformacionniSistemi.Services.Mapping.csproj": {
+                "projectPath": "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Services\\UpravlenskiInformacionniSistemi.Services.Mapping\\UpravlenskiInformacionniSistemi.Services.Mapping.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

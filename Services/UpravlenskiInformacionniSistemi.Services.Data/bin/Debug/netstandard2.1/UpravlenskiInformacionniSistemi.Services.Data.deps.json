@@ -12,7 +12,8 @@
           "StyleCop.Analyzers": "1.2.0-beta.312",
           "UpravlenskiInformacionniSistemi.Data.Common": "1.0.0",
           "UpravlenskiInformacionniSistemi.Data.Models": "1.0.0",
-          "UpravlenskiInformacionniSistemi.Services.Mapping": "1.0.0"
+          "UpravlenskiInformacionniSistemi.Services.Mapping": "1.0.0",
+          "UpravlenskiInformacionniSistemi.Web.ViewModels": "1.0.0"
         },
         "runtime": {
           "UpravlenskiInformacionniSistemi.Services.Data.dll": {}
@@ -338,6 +339,15 @@
         "runtime": {
           "UpravlenskiInformacionniSistemi.Services.Mapping.dll": {}
         }
+      },
+      "UpravlenskiInformacionniSistemi.Web.ViewModels/1.0.0": {
+        "dependencies": {
+          "UpravlenskiInformacionniSistemi.Data.Models": "1.0.0",
+          "UpravlenskiInformacionniSistemi.Services.Mapping": "1.0.0"
+        },
+        "runtime": {
+          "UpravlenskiInformacionniSistemi.Web.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -568,6 +578,11 @@
       "sha512": ""
     },
     "UpravlenskiInformacionniSistemi.Services.Mapping/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UpravlenskiInformacionniSistemi.Web.ViewModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

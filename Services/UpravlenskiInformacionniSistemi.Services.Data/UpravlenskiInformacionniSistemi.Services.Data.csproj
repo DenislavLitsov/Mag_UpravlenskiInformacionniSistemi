@@ -21,6 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Data\UpravlenskiInformacionniSistemi.Data.Common\UpravlenskiInformacionniSistemi.Data.Common.csproj" />
     <ProjectReference Include="..\..\Data\UpravlenskiInformacionniSistemi.Data.Models\UpravlenskiInformacionniSistemi.Data.Models.csproj" />
+    <ProjectReference Include="..\..\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\UpravlenskiInformacionniSistemi.Web.ViewModels.csproj" />
     <ProjectReference Include="..\UpravlenskiInformacionniSistemi.Services.Mapping\UpravlenskiInformacionniSistemi.Services.Mapping.csproj" />
   </ItemGroup>
 

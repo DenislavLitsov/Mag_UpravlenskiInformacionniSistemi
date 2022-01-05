@@ -74,3 +74,5 @@ E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Tests\
 E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Tests\Sandbox\obj\Debug\net5.0\ref\Sandbox.dll
 E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Tests\Sandbox\obj\Debug\net5.0\Sandbox.pdb
 E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Tests\Sandbox\obj\Debug\net5.0\Sandbox.genruntimeconfig.cache
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Tests\Sandbox\bin\Debug\net5.0\UpravlenskiInformacionniSistemi.Web.ViewModels.dll
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Tests\Sandbox\bin\Debug\net5.0\UpravlenskiInformacionniSistemi.Web.ViewModels.pdb
