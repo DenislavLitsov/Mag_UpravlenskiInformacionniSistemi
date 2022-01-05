@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IqaP7EA9J44TRsratHB3MwYPe3ZdZYHP4VotyR8vA1xYp31EpOLXiLTSTO7GOSahYrHQQMNNR4A8gyoYm2vxJQ==",
+  "success": true,
+  "projectFilePath": "E:\\SCHOOL\\Magistyr\\1vi Sem\\Upravlenie\\Mag_UpravlenskiInformacionniSistemi\\Web\\UpravlenskiInformacionniSistemi.Web.Infrastructure\\UpravlenskiInformacionniSistemi.Web.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denis\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

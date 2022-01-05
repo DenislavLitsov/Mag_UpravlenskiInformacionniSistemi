@@ -1,0 +1,16 @@
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Web.ViewModels.deps.json
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Web.ViewModels.dll
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Web.ViewModels.pdb
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Common.dll
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Models.dll
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Services.Mapping.dll
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Models.pdb
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Services.Mapping.pdb
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Common.pdb
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Web.ViewModels.csproj.AssemblyReference.cache
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Web.ViewModels.AssemblyInfoInputs.cache
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Web.ViewModels.AssemblyInfo.cs
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Web.ViewModels.csproj.CoreCompileInputs.cache
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Web.ViewModels.csproj.CopyComplete
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Web.ViewModels.dll
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web.ViewModels\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Web.ViewModels.pdb

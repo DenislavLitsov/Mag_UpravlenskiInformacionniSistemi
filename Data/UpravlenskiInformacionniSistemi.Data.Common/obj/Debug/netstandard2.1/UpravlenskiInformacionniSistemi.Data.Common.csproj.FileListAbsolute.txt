@@ -1,0 +1,9 @@
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Common\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Common.deps.json
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Common\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Common.dll
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Common\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Common.pdb
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Common\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Common.csproj.AssemblyReference.cache
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Common\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Common.AssemblyInfoInputs.cache
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Common\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Common.AssemblyInfo.cs
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Common\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Common.csproj.CoreCompileInputs.cache
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Common\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Common.dll
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Common\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Common.pdb

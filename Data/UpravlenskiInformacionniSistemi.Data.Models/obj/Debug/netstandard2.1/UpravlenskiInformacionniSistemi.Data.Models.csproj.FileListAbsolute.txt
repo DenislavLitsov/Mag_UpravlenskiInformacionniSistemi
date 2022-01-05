@@ -1,0 +1,12 @@
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Models\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Models.deps.json
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Models\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Models.dll
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Models\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Models.pdb
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Models\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Common.dll
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Models\bin\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Common.pdb
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Models\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Models.csproj.AssemblyReference.cache
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Models\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Models.AssemblyInfoInputs.cache
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Models\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Models.AssemblyInfo.cs
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Models\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Models.csproj.CoreCompileInputs.cache
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Models\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Models.csproj.CopyComplete
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Models\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Models.dll
+E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Data\UpravlenskiInformacionniSistemi.Data.Models\obj\Debug\netstandard2.1\UpravlenskiInformacionniSistemi.Data.Models.pdb

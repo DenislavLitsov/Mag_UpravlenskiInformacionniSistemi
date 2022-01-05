@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/Identity" Path="C:\Users\denis\.nuget\packages\microsoft.aspnetcore.identity.ui\5.0.6\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/UpravlenskiInformacionniSistemi.Web" Path="E:\SCHOOL\Magistyr\1vi Sem\Upravlenie\Mag_UpravlenskiInformacionniSistemi\Web\UpravlenskiInformacionniSistemi.Web\wwwroot\" />
+</StaticWebAssets>
